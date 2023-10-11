@@ -6,7 +6,7 @@ Mon objectif a été de créer un formulaire complexe et de l'organiser avec CSS
 
 ## Démonstration
 
-Lien vers le projet : aperbet56.github.io/formulaire_grid/
+Lien vers le projet: https://aperbet56.github.io/formulaire_grid/
 
 ## Développez avec
 
