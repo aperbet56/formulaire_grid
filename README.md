@@ -1,8 +1,10 @@
 ## FORMULAIRE ORGANISE AVEC GRID
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
-Mon objectif a été de créer un formulaire complexe et de l'organiser avec CSS Grid. Ce mini projet m'a permis de travailler la disposition des éléments en grille.La page web est responsive.
+Mon objectif a été de créer un formulaire complexe et de l'organiser avec CSS Grid. Ce mini projet m'a permis de travailler la disposition des éléments en grille.
 
 ## Démonstration
 
